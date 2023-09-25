@@ -20,3 +20,5 @@ This project is licensed for non-commercial use only.
 
 ## Acknowledgments
 - Hat tip to the Power BI community for their valuable resources and support.
+
+- ![Screenshot_1](https://github.com/Alccardi/Power_Bi_Market_Data/assets/125987634/e7be202d-fc22-4bb2-88d2-5cae1cae0d95)
