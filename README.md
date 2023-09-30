@@ -1,4 +1,4 @@
-# Project Title: Market Insights Dashboard
+# Market Insights Dashboard
 
 ## Project Description
 The Market Insights Dashboard is a data visualization project aimed at providing comprehensive insights into market trends and data analysis. It leverages the power of Power BI for creating visually appealing dashboards and reports.
